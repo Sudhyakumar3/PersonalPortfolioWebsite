@@ -24,11 +24,3 @@ npm run build
 npm run preview
 ```
 
-## Update content
-- Main layout: `src/App.jsx`
-- Global styles: `src/index.css`
-- Tailwind theme: `tailwind.config.js`
-
-## Notes
-- Replace placeholder images and links inside `src/App.jsx`.
-- Update contact links in the Contact section.
