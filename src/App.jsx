@@ -125,7 +125,7 @@ function Hero() {
             UI/UX Designer + Developer
           </span>
           <h1 className="mt-5 font-display text-4xl font-semibold leading-tight md:text-5xl">
-            Designing calm, clear digital experiences.
+            Designing digital experiences.
           </h1>
           <p className="mt-3 text-base text-stone-600">
             UI/UX designer and developer focused on accessible, human-centered products.
