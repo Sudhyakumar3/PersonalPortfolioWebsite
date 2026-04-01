@@ -2,6 +2,15 @@ import { useEffect, useState } from 'react';
 
 const projects = [
   {
+    title: 'Lot360',
+    subtitle: 'HACKLYTICS 2026 Submission',
+    blurb:
+      'Web application that locates nearby parking areas and estimates the number of spots using computer vision and satellite imagery.',
+    tools: ['Python', 'React', 'Tailwind', 'TypeScript', 'Computer Vision', 'Satellite Imagery'],
+    tags: ['Development', 'Machine Learning'],
+    link: 'https://devpost.com/software/lot360#'
+  },
+  {
     title: 'Exoplanet Habitability Prediction',
     subtitle: 'Machine Learning Final Project',
     blurb:
